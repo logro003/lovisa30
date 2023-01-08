@@ -27,6 +27,10 @@ html {
   .Arrow {
     animation: Arrow-blink infinite 1s linear;
   }
+
+  .Background-alice {
+    animation: Arrow-blink infinite 2s linear;
+  }
 }
 
 .App-header {
