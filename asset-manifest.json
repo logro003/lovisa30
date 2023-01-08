@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/lovisa30/static/css/main.874c6da1.css",
+    "main.css": "/lovisa30/static/css/main.6245c35b.css",
     "main.js": "/lovisa30/static/js/main.5310ea21.js",
     "static/js/787.3afee213.chunk.js": "/lovisa30/static/js/787.3afee213.chunk.js",
     "static/media/falling-alice.gif": "/lovisa30/static/media/falling-alice.252197950c3bf1a50adb.gif",
     "static/media/shaking-alice.gif": "/lovisa30/static/media/shaking-alice.5d8b493e44b66b2c3ad0.gif",
     "static/media/cheshire-cat.png": "/lovisa30/static/media/cheshire-cat.cc63c14dd7dfde2fa07a.png",
     "index.html": "/lovisa30/index.html",
-    "main.874c6da1.css.map": "/lovisa30/static/css/main.874c6da1.css.map",
+    "main.6245c35b.css.map": "/lovisa30/static/css/main.6245c35b.css.map",
     "main.5310ea21.js.map": "/lovisa30/static/js/main.5310ea21.js.map",
     "787.3afee213.chunk.js.map": "/lovisa30/static/js/787.3afee213.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.874c6da1.css",
+    "static/css/main.6245c35b.css",
     "static/js/main.5310ea21.js"
   ]
 }
